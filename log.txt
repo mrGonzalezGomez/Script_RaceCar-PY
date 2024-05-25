@@ -1,0 +1,800 @@
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 750.0 right: 550.0 alpha: 0.5
+
+
+
+
+left: 487.5 right: 475.0 alpha: 0.5
+
+
+
+
+left: 120.0 right: 600.0 alpha: -0.5
+
+
+
+
+left: 50.0 right: 113.5 alpha: -0.5
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 750.0 right: 575.0 alpha: 0.5
+
+
+
+
+left: 500.0 right: 450.0 alpha: 0.5
+
+
+
+
+left: 96.0 right: 425.0 alpha: -0.5
+
+
+
+
+left: 0.0 right: 104.5 alpha: -0.5
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
+left: 0.0 right: 0.0 alpha: 0
+
+
+
+
